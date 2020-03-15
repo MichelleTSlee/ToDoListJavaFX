@@ -1,0 +1,8 @@
+Birthday card	Buy a birthday card	20/04/2020
+Eggs	Buy some eggs	04/05/2020
+Tickets	Check details on tickets	20/06/2020
+Lawn	Mow lawn	07/07/2020
+Exam	Sit exams	31/08/2020
+Make dinner	Make a roast dinner	16/03/2020
+Work	Go to work	16/03/2020
+Library book	Return books	21/03/2020
